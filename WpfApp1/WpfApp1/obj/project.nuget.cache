@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BjfvllcoNvxE7jn4e5rs3gYCyIHyni5OSfy1iU+cmYua/6TShu7U6cZmJhsHrnxzg1fi/Tlt8IW3nBumNQAA4g==",
+  "dgSpecHash": "te36aJTgbjxaXWcypUnpyhrmbUNHjzaSwe+wiWtqGR+nMiC6Lr6jIkY3O5y4V5zV6sFETRbI21nw7YNqdAWzRw==",
   "success": true,
-  "projectFilePath": "X:\\ШАГ\\SPU_WPF-master\\Lesson 07\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "projectFilePath": "X:\\ШАГ\\Github\\Wpf\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexa\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\alexa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

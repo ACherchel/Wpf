@@ -13,7 +13,7 @@ namespace WpfApp1.Domain
         public DbSet<Product> Products { get; set; }
         public DbSet<Category> Categories { get; set; }
 
-        public DbSet<CartProducts> cartProducts { get; set; }
+        public DbSet<CartProducts> CartProducts { get; set; }
 
 
         public AppDbContext(DbContextOptions options) : base(options)
@@ -98,7 +98,7 @@ namespace WpfApp1.Domain
             };
         }
 
-        private List<CartProducts> GetCartProducts()
+        public List<CartProducts> GetCartProducts()
         {
             return new List<CartProducts>
             {
